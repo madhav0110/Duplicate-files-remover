@@ -16,5 +16,3 @@ Execute `python3 duplicatefileremover.py`
 ## Working
 The script first lists all the files in the directory. It takes MD5 hash of each file, when hash of 2 files become same it deletes the file.
 
-## Author Name
-[Anandha Krishnan Aji](https://github.com/anandhakrishnanaji)
